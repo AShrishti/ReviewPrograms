@@ -3,6 +3,8 @@
 randomcheck1=$((RANDOM%1000))
 randomcheck2=$((RANDOM%1000))
 randomcheck3=$((RANDOM%1000))
+randomcheck4=$((RANDOM%1000))
+randomcheck5=$((RANDOM%1000))
 
 
 
